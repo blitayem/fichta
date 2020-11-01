@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_HOST} ^joursferies-tunise.com
+RewriteRule ^(.*) https://https://blitayem.github.io/fichta/bootstrap-4.5.3-examples/fichta/ [P] 
